@@ -1,3 +1,3 @@
 # Beleagured-Castle
 
-A simple game of Beleagured Castle in C# XNA.
+A simple, yet impossible, game of Beleagured Castle in C# XNA.
