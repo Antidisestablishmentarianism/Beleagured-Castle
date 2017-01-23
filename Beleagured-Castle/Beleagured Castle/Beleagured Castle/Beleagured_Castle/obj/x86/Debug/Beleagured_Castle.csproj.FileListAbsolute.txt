@@ -1,0 +1,36 @@
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Content\card_sheet.xnb
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Content\card_sheet.txt
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Beleagured_Castle.exe
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Beleagured_Castle.pdb
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_Castle\obj\x86\Debug\Beleagured_Castle.csprojResolveAssemblyReference.cache
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_Castle\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_Castle\obj\x86\Debug\Beleagured_Castle.exe
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_Castle\obj\x86\Debug\Beleagured_Castle.pdb
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Content\card_sheet.xnb
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Content\card_sheet.txt
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Beleagured_Castle.exe
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Beleagured_Castle.pdb
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.dll
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.xml
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_Castle\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_Castle\obj\x86\Debug\Beleagured_Castle.csprojResolveAssemblyReference.cache
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_Castle\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_Castle\obj\x86\Debug\Beleagured_Castle.exe
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_Castle\obj\x86\Debug\Beleagured_Castle.pdb

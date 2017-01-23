@@ -1,0 +1,2 @@
+Content\card_sheet.xnb
+Content\card_sheet.txt

@@ -1,0 +1,2 @@
+C:\Users\180502\Desktop\Beleagured Castle\Beleagured Castle\Beleagured_CastleContent\obj\x86\Debug\Beleagured_CastleContent.contentprojResolveAssemblyReference.cache
+\\fisd-fs4\HS\RHS\180502\Documents\Visual Studio 2015\Projects\Beleagured-Castle\Beleagured Castle\Beleagured Castle\Beleagured_CastleContent\obj\x86\Debug\Beleagured_CastleContent.contentprojResolveAssemblyReference.cache
